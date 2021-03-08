@@ -11,4 +11,6 @@
 The contributors of this project are:
 
 - Rafael Corchuelo (corchu@us.es)
+- Fernando Valdes (fervalnav@alum.us.es)
 - Pablo Gonzalez Moncalvillo (pablogonmon@gmail.com)
+
