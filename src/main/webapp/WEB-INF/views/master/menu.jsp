@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.fernando" action="https://www.xataka.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.jcarlos" action="https://www.amazon.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.morales" action="https://www.sevillafc.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.villadiego" action="https://www.xbox.com/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
